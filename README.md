@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Passed Out 12th on St Thomas Higher Secondary School Trivandrum**
 
-- 📫 How to reach me **https://t.me/AbzHUB**
+- 📫 How to reach me **https://t.me/TheAbzHUB**
 
 - ⚡ Fun fact **I think I am funny :)**
 
