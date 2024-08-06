@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Nikhil</h1>
-<h3 align="center">💞️ I’m an avid learner and I've keen interest in Android Development</h3>
+<h3 align="center">I've  interest in Android Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abzraider&label=Profile%20views&color=0e75b6&style=flat" alt="abzraider" /> </p>
 
