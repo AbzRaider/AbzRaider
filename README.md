@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Lineage Plus Kernel (RM6785 Custom Kernel)](https://github.com/AbzRaider/android_kernel_realme_mt6785)
 
-- 🌱 I’m currently learning **B.Tech/Computer Science**
+- 🌱 I’m currently learning **B.Tech/Computer Science** at **Ramaiah Institute of Technology, Bengaluru**
 
 - 🤝 I’m looking for help with **Android Development**
 
 - 📝 I regularly write articles on [https://t.me/kernelspacedisc](https://t.me/kernelspacedisc)
 
-- 💬 Ask me about **Passed Out 12th on St Thomas Higher Secondary School Trivandrum**
+- 🎓 **Passed Out 12th on St Thomas Higher Secondary School Trivandrum**
 
 - 📫 How to reach me **https://t.me/TheAbzHUB**
 
