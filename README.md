@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abzraider" target="blank"><img src="https://img.shields.io/twitter/follow/abzraider?logo=twitter&style=for-the-badge" alt="abzraider" /></a> </p>
 
-- 🔭 I’m currently working on [Lineage Plus Kernel (RM6785 Custom Kernel)](https://github.com/AbzRaider/android_kernel_realme_mt6785)
+- 🔭 I’m currently working on [Lineage Plus Kernel (RM6785 Custom Kernel)](https://github.com/AbzRaider/android_kernel_realme_mt6785) and [Xiaomi MT6893 OSS Development](https://github.com/xiaomi-mt6893-dev)
 
 - 🌱 I’m currently learning **B.Tech/Computer Science** at **Ramaiah Institute of Technology, Bengaluru**
 
