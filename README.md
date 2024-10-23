@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **https://t.me/TheAbzHUB**
 
-- ⚡ Fun fact **I think I am funny :)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
