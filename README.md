@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Lineage Plus Kernel (RM6785 Custom Kernel)](https://github.com/AbzRaider/android_kernel_realme_mt6785) and [Xiaomi MT6893 OSS Development](https://github.com/xiaomi-mt6893-dev)
 
-- 🌱 I’m currently learning **B.Tech/Computer Science** at **Ramaiah Institute of Technology, Bengaluru**
-
 - 🤝 I’m looking for help with **Android Development**
 
 - 📝 I regularly write articles on [https://t.me/kernelspacedisc](https://t.me/kernelspacedisc)
